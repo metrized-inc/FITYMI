@@ -1,5 +1,5 @@
 # Fake It Till You Make It: Near-Distribution Novelty Detection by Score-Based Generative Models
-Official PyTorch implementation of "Fake It Till You Make It: Near-Distribution Novelty Detection by Score-Based Generative Models" by 
+Official PyTorch implementation of ["Fake It Till You Make It: Near-Distribution Novelty Detection by Score-Based Generative Models" ](https://arxiv.org/abs/2205.14297) by
 Hossein Mirzaei,
  [Mohammadreza Salehi](https://scholar.google.com/citations?user=kpT3gcsAAAAJ&hl=en),
  Sajjad Shahabi,
@@ -8,7 +8,6 @@ Hossein Mirzaei,
   [Mohammad Sabokrou](https://scholar.google.com/citations?user=jqHXvT0AAAAJ&hl=en), 
   [Mohammad Hossein Rohban](https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en)
 
-<!-- ![FFF2-1](https://user-images.githubusercontent.com/33581331/170314540-1689d686-1d53-43e2-bd43-253b51f1b805.png)  -->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/33581331/170314540-1689d686-1d53-43e2-bd43-253b51f1b805.png" alt="Main method overview" height="550" width="750"/>
 </p>
@@ -76,12 +75,10 @@ To see the performance of various anomaly detection and out-of-distribution meth
 ## 5. Citation
 If you find this useful for your research, please cite the following paper:
 ``` bash
-@article{mirzaei2022fitymi,
+@article{mirzaei2022fake,
   title={Fake It Till You Make It: Near-Distribution Novelty Detection by Score-Based Generative Models},
-  author={Hossein Mirzaei and Mohammadreza Salehi and Sajjad Shahabi and Efstratios Gavves and Cees G. M. Snoek and Mohammad Sabokrou and Mohammad Hossein Rohban},
-  year={2022},
-  eprint={2205.14297},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+  author={Mirzaei, Hossein and Salehi, Mohammadreza and Shahabi, Sajjad and Gavves, Efstratios and Snoek, Cees GM and Sabokrou, Mohammad and Rohban, Mohammad Hossein},
+  journal={arXiv preprint arXiv:2205.14297},
+  year={2022}
 }
 ```
